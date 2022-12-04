@@ -1,0 +1,44 @@
+.App {
+
+}
+
+.header-logo {
+  width: 10em;
+  margin-right: 100px;
+}
+
+.search-bar {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.bg-dark-green {
+  background-color: #00684a;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.footer-logo {
+  width: 100px;
+}
+
+.search-bar button {
+  background-color: #00ed64;
+  color: #000000;
+  border: 1px solid #00684a;
+}
+
+.categ-filter {
+  cursor: pointer;
+}
+
+.categ-link {
+  color: #000;
+  text-decoration: none;
+}
+
+.card img {
+  width: 80%;
+}
